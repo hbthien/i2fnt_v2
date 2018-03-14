@@ -1,0 +1,15 @@
+*.params
+.project
+.pydevproject
+*.pyc
+*.gz
+*.dat
+
+
+
+.ipynb_checkpoints/
+.settings/
+model/
+__pycache__/
+data/raw-data/
+data/inception/
